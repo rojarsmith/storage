@@ -2,3 +2,4 @@ Use the GitHub Release feature to provide static download links for other projec
 
 Backups must use the GitHub API.
 
+EDT HMI Studio 0.9.0
